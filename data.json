@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "login": "anuar",
+        "account": 24000,
+        "nationality": "kazakh"
+
+    },
+    {
+        "id": 2,
+        "login": "anthony",
+        "account": 2400,
+        "nationality": "kazakh"
+
+    },
+    {
+        "id": 3,
+        "login": "tommy",
+        "account": 2000,
+        "nationality": "kazakh"
+
+    },
+    {
+        "id": 4,
+        "login": "steve",
+        "account": 4000,
+        "nationality": "kazakh"
+
+    }
+]
